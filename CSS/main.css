@@ -1,0 +1,33 @@
+.text{
+    padding-top: 60px;
+}
+.navbrand{
+    width: 120px;
+}
+
+.jumbotron{
+    margin-bottom: 0;
+    height: 300px;
+    background-image: url(../foto/achtergrond.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    display: table;
+}
+
+footer {
+    background-color: grey;
+    display: table-row;
+    height: 0;
+    bottom: 0;
+}
+
+
+
